@@ -1,4 +1,4 @@
 openshift-prestashop-example
 ============================
 
-First import from 1.5.1.
+for 1.6.0.6 version
